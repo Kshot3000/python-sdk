@@ -1,0 +1,12 @@
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+dist/
+build/
+__pycache__/
+*.pyc
+.venv/
+.python-version.local
+.tmp/
+.claude/
