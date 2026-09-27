@@ -19,7 +19,7 @@ Official Python SDK for the [OctaSpace API](https://api.octa.space/api-docs).
 
 ### From PyPI
 
-Use this after the first public PyPI release. Until then, use the local development setup below.
+The SDK is published on PyPI as [`octaspace`](https://pypi.org/project/octaspace/):
 
 ```bash
 pip install octaspace
